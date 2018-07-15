@@ -1,0 +1,7 @@
+D:\Roma\__C#\Test\Test\bin\Debug\Test.exe.config
+D:\Roma\__C#\Test\Test\bin\Debug\Test.exe
+D:\Roma\__C#\Test\Test\bin\Debug\Test.pdb
+D:\Roma\__C#\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Roma\__C#\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Roma\__C#\Test\Test\obj\Debug\Test.exe
+D:\Roma\__C#\Test\Test\obj\Debug\Test.pdb
